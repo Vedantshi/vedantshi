@@ -39,7 +39,6 @@ Processed 660K+ rides using Python and visualized seasonal usage in Tableau, hel
 
 📧 Email: [shindev124@gmail.com](mailto:shindev124@gmail.com)  
 🔗 LinkedIn: [linkedin.com/in/vedantshinde25](http://www.linkedin.com/in/vedantshinde25)  
-💻 GitHub: [github.com/Vedantshi](https://github.com/Vedantshi)
 
 ---
 
