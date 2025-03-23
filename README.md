@@ -1,45 +1,51 @@
-# 👋 Hello! I'm Vedant Shinde
+# 👋 Hi, I'm Vedant Shinde
 
-🌟 Welcome to my GitHub! 🌟  
-A forward-thinking Information Systems graduate student with a sharp analytical mindset and a passion for transforming raw data into meaningful stories. I thrive at the intersection of business insight and technical execution, using data to fuel smarter strategies and innovative solutions.
+Welcome to my GitHub!
 
----
-
-## 🔹 About Me
-
-🎓 **M.S. in Information Systems** | *Stevens Institute of Technology* — GPA: 4.0  
-🎓 **B.E. in Information Technology** | *Mumbai University*  
-
-🧠 Adept in **Python**, **SQL**, **Power BI**, **Tableau**, **PostgreSQL**, **MongoDB**, and **MySQL**  
-📊 Specialized in **data analysis**, **data visualization**, and building **intuitive dashboards**  
-🧮 Skilled in a range of ML techniques — from **regression models** to **clustering algorithms**  
-📈 Certified in Excel, Power BI, SQL, and Python, with a strong foundation in analytics  
-
-I bring a data-first mindset to everything I do — whether it's identifying untapped business opportunities, creating predictive models, or delivering insights through sleek dashboards that inform and inspire decision-making.
+I'm a forward-thinking Information Systems graduate student passionate about transforming raw data into powerful, actionable insights. I thrive at the intersection of business and technology—using data to drive smarter strategies, meaningful outcomes, and impactful innovation.
 
 ---
 
-## 🚀 Projects That Excite Me
+## 📌 About Me
 
-📉 **Stock Price Forecasting for MAANG Companies**  
-Built a deep learning model using LSTM in TensorFlow/Keras, enhancing prediction accuracy by 72% with optimized hyperparameters and time series visualizations.
+🎓 **M.S. in Information Systems** — *Stevens Institute of Technology* (GPA: 4.0)  
+🎓 **B.E. in Information Technology** — *Mumbai University*
 
-☕ **Coffee Sales Analysis Dashboard**  
-Created an interactive Excel dashboard analyzing 3+ years of sales data across regions and products, revealing $35K+ in growth opportunities through data-driven insights.
+💡 Proficient in:  
+- **Python**, **SQL**, **Power BI**, **Tableau**, **PostgreSQL**, **MongoDB**, **MySQL**
 
-🧍‍♂️ **Customer Segmentation for Targeted Marketing**  
-Used K-Means clustering and 3D visualizations to segment customer data for smarter marketing strategies — based on income, age, and spending behavior.
+🔍 Experienced in:  
+- **Data analysis**, **data visualization**, and building **interactive dashboards**  
+- Applying machine learning techniques like **regression**, **classification**, and **clustering**  
+- Leveraging tools to communicate insights and support data-driven decision-making
 
-🚲 **Bike Usage Trends Analysis**  
-Processed 660K+ rides using Python and visualized seasonal usage in Tableau, helping uncover insights that could increase ridership by 15%.
+📈 Certifications in Excel, Power BI, SQL, and Python
+
+With a data-first mindset, I strive to connect the dots between raw numbers and business impact—delivering insights that guide action and innovation.
 
 ---
 
-## 📫 Let's Connect
+## 💼 Selected Projects
+
+### 📉 Stock Price Forecasting for MAANG Companies  
+Built an LSTM-based deep learning model using TensorFlow/Keras to predict stock prices. Achieved a 72% improvement in prediction accuracy with hyperparameter tuning and time series optimization.
+
+### ☕ Coffee Sales Analysis Dashboard  
+Designed an Excel dashboard analyzing 3+ years of sales data across products and geographies. Revealed $35K+ in untapped revenue opportunities through trend analysis and regional performance insights.
+
+### 🧍 Customer Segmentation for Targeted Marketing  
+Applied K-Means clustering and 3D visualization to segment customers based on age, income, and spending behavior—enabling smarter, more personalized marketing strategies.
+
+### 🚲 Bike Usage Trends Analysis in London  
+Analyzed 660K+ bike ride records using Python and visualized key trends in Tableau. Identified seasonal insights that could increase ridership by 15%, supporting urban planning and resource optimization.
+
+---
+
+## 🤝 Let’s Connect
 
 📧 Email: [shindev124@gmail.com](mailto:shindev124@gmail.com)  
-🔗 LinkedIn: [linkedin.com/in/vedantshinde25](http://www.linkedin.com/in/vedantshinde25)  
+🔗 LinkedIn: [linkedin.com/in/vedantshinde25](https://www.linkedin.com/in/vedantshinde25)
 
 ---
 
-🚀 I'm always open to collaborations, data-driven discussions, or just connecting with like-minded professionals. Let’s turn data into impact!
+I'm always open to collaborating on exciting data projects, exchanging ideas, or just chatting about all things analytics. Let’s connect and turn data into impact.
