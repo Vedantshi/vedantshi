@@ -2,7 +2,7 @@
 
 Welcome to my GitHub!
 
-I'm a forward-thinking Information Systems graduate student passionate about transforming raw data into powerful, actionable insights. I thrive at the intersection of business and technology—using data to drive smarter strategies, meaningful outcomes, and impactful innovation.
+I’m a graduate student in Information Systems who loves turning complex data into clear, impactful insights. I bring a business-first mindset to analytics—bridging the gap between raw numbers and strategic decisions through clean data, smart KPIs, and intuitive dashboards.
 
 ---
 
@@ -11,33 +11,30 @@ I'm a forward-thinking Information Systems graduate student passionate about tra
 🎓 **M.S. in Information Systems** — *Stevens Institute of Technology* (GPA: 4.0)  
 🎓 **B.E. in Information Technology** — *Mumbai University*
 
-💡 Proficient in:  
-- **Python**, **SQL**, **Power BI**, **Tableau**, **PostgreSQL**, **MongoDB**, **MySQL**
+💡 **Technical Skills:**  
+- Languages & Tools: **SQL**, **Python**, **Power BI**, **Tableau**, **Excel**, **MySQL**, **PostgreSQL**  
+- Libraries: **Pandas**, **NumPy**, **Matplotlib**, **Seaborn**, **Plotly**  
+- Strengths: **Data Cleaning**, **KPI Reporting**, **Dashboard Design**, **Data Visualization**, **Business Analytics**
 
-🔍 Experienced in:  
-- **Data analysis**, **data visualization**, and building **interactive dashboards**  
-- Applying machine learning techniques like **regression**, **classification**, and **clustering**  
-- Leveraging tools to communicate insights and support data-driven decision-making
+📈 **Certified in:** Excel, Power BI, Python, and SQL
 
-📈 Certifications in Excel, Power BI, SQL, and Python
-
-With a data-first mindset, I strive to connect the dots between raw numbers and business impact—delivering insights that guide action and innovation.
+I focus on practical, real-world analytics that solve business problems—especially in **retail**, **operations**, and **forecasting**.
 
 ---
 
 ## 💼 Selected Projects
 
-### 📉 Stock Price Forecasting for MAANG Companies  
-Built an LSTM-based deep learning model using TensorFlow/Keras to predict stock prices. Achieved a 72% improvement in prediction accuracy with hyperparameter tuning and time series optimization.
+### 🛒 Shelf Life: Retail Inventory Turnover & Overstock Risk  
+Analyzed 44,000+ retail inventory records using SQL and Excel to flag over $180K in idle stock. Built a Tableau dashboard to visualize turnover, DIO, and stock status—helping inventory managers identify slow movers and optimize restocking.
 
-### ☕ Coffee Sales Analysis Dashboard  
-Designed an Excel dashboard analyzing 3+ years of sales data across products and geographies. Revealed $35K+ in untapped revenue opportunities through trend analysis and regional performance insights.
+### ☕ Coffee Sales Dashboard for Regional Insights  
+Created an Excel dashboard analyzing 3+ years of coffee sales data across countries and products. Surface trends using slicers, PivotTables, and filters—uncovering $35K+ in missed revenue opportunities.
 
-### 🧍 Customer Segmentation for Targeted Marketing  
-Applied K-Means clustering and 3D visualization to segment customers based on age, income, and spending behavior—enabling smarter, more personalized marketing strategies.
+### 🚲 Weather-Based Bike Demand Analysis  
+Processed 660K+ ride records to explore the link between weather and ridership. Built a Tableau dashboard showing seasonal and humidity-based usage patterns to guide scheduling and planning.
 
-### 🚲 Bike Usage Trends Analysis in London  
-Analyzed 660K+ bike ride records using Python and visualized key trends in Tableau. Identified seasonal insights that could increase ridership by 15%, supporting urban planning and resource optimization.
+### 📉 Stock Price Forecasting with LSTM  
+Led a team to build an LSTM model using TensorFlow/Keras to predict MAANG stock prices. Used historical data and advanced preprocessing techniques to improve model performance and forecasting accuracy.
 
 ---
 
@@ -48,4 +45,4 @@ Analyzed 660K+ bike ride records using Python and visualized key trends in Table
 
 ---
 
-I'm always open to collaborating on exciting data projects, exchanging ideas, or just chatting about all things analytics. Let’s connect and turn data into impact.
+I'm always open to new opportunities, collaborations, and conversations around analytics, BI, and data strategy. Let's connect and turn data into decisions.
