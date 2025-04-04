@@ -24,6 +24,9 @@ I focus on practical, real-world analytics that solve business problems—especi
 
 ## 💼 Selected Projects
 
+### 📊 Retail Price Optimization & Margin Intelligence  
+Built a full pricing intelligence system using Python (XGBoost) and Tableau. Modeled demand sensitivity to pricing and competitor actions, visualized freight impact on profit, and developed interactive dashboards to simulate price strategies—helping category managers and executives uncover margin leakage and optimize pricing.
+
 ### 🛒 Shelf Life: Retail Inventory Turnover & Overstock Risk  
 Analyzed 44,000+ retail inventory records using SQL and Excel to flag over $180K in idle stock. Built a Tableau dashboard to visualize turnover, DIO, and stock status—helping inventory managers identify slow movers and optimize restocking.
 
@@ -32,9 +35,6 @@ Created an Excel dashboard analyzing 3+ years of coffee sales data across countr
 
 ### 🚲 Weather-Based Bike Demand Analysis  
 Processed 660K+ ride records to explore the link between weather and ridership. Built a Tableau dashboard showing seasonal and humidity-based usage patterns to guide scheduling and planning.
-
-### 📉 Stock Price Forecasting with LSTM  
-Led a team to build an LSTM model using TensorFlow/Keras to predict MAANG stock prices. Used historical data and advanced preprocessing techniques to improve model performance and forecasting accuracy.
 
 ---
 
