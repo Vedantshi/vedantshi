@@ -6,23 +6,23 @@ I’m a graduate student in Information Systems who loves turning complex data i
 
 ---
 
-## 📌 About Me
+## About Me
 
 🎓 **M.S. in Information Systems** — *Stevens Institute of Technology* (GPA: 4.0)  
 🎓 **B.E. in Information Technology** — *Mumbai University*
 
-💡 **Technical Skills:**  
+**Technical Skills:**  
 - Languages & Tools: **SQL**, **Python**, **Power BI**, **Tableau**, **Excel**, **MySQL**, **PostgreSQL**  
 - Libraries: **Pandas**, **NumPy**, **Matplotlib**, **Seaborn**, **Plotly**  
 - Strengths: **Data Cleaning**, **KPI Reporting**, **Dashboard Design**, **Data Visualization**, **Business Analytics**
 
-📈 **Certified in:** Excel, Power BI, Python, and SQL
+**Certified in:** Excel, Power BI, Python, and SQL
 
 I focus on practical, real-world analytics that solve business problems—especially in **retail**, **operations**, and **forecasting**.
 
 ---
 
-## 💼 Selected Projects
+## Selected Projects
 
 ### 📊 Retail Price Optimization & Margin Intelligence  
 Built a full pricing intelligence system using Python (XGBoost) and Tableau. Modeled demand sensitivity to pricing and competitor actions, visualized freight impact on profit, and developed interactive dashboards to simulate price strategies—helping category managers and executives uncover margin leakage and optimize pricing.
