@@ -36,57 +36,45 @@ I build data pipelines, dashboards, and forecasting models that help organizatio
 
 ## Featured Projects
 
-### 📦 Retail Inventory Turnover & Overstock Risk Analysis
+### Retail Inventory Turnover & Overstock Risk Analysis
 Analyzed **44,000+ inventory records** across **$2.7M+ in stock** using SQL and Excel. Flagged **$180K+ in idle inventory** and built a Tableau dashboard tracking DIO, turnover rates, and overstock risk by SKU — enabling data-driven restocking decisions across 5 product categories.
 
 `SQL` `Excel` `Tableau` `Inventory Analytics`
 
 ---
 
-### 💸 Retail Price Optimization & Margin Intelligence
+### Retail Price Optimization & Margin Intelligence
 Built a full pricing intelligence system using **Python (XGBoost)** with competitor price analysis, freight impact modeling, and interactive Tableau dashboards. Designed to help category managers identify margin leakage and simulate pricing strategies.
 
 `Python` `XGBoost` `Tableau` `Machine Learning`
 
 ---
 
-### 🗺️ Transit Equity & Fairness Analytics *(Stevens Research — ongoing)*
+### Transit Equity & Fairness Analytics *(Stevens Research — ongoing)*
 Built **Gini and Alpha fairness metrics** across **200+ census tracts** using Python (GeoPandas). Designed an **AWS data pipeline** consolidating millions of mobility records from 8 transit systems, cutting processing time by **25–30%** and informing policy recommendations for underserved communities.
 
 `Python` `AWS` `Power BI` `GeoPandas` `ETL`
 
 ---
 
-### 🛒 Grocery Assistant Chatbot
+### Grocery Assistant Chatbot
 AI-powered shopping assistant combining conversational guidance with personalized recipe recommendations — helping users save money, eat healthier, and reduce food waste.
 
 `JavaScript` `AI` `Chatbot`
 
 ---
 
-### 📊 Customer Behavior Segmentation with K-Means
+### Customer Behavior Segmentation with K-Means
 Segmented **2,000 customers** into 5 behavioral clusters by income and spending patterns using K-Means in Python. Output used to drive targeted marketing strategies by customer tier.
 
 `Python` `K-Means` `scikit-learn` `Jupyter Notebook`
 
 ---
 
-### 🍎 Perishable Goods Demand Forecasting
+### Perishable Goods Demand Forecasting
 Smart demand forecasting tool for perishable grocery items using sales, weather, and calendar data. Cleaned data, handled outliers, and trained a **LightGBM model** for shelf-level predictions.
 
 `Python` `LightGBM` `Forecasting` `Jupyter Notebook`
-
----
-
-## GitHub Stats
-
-<div align="center">
-
-![Vedant's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Vedantshi&show_icons=true&theme=default&hide_border=true&count_private=true)
-&nbsp;
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Vedantshi&layout=compact&theme=default&hide_border=true)
-
-</div>
 
 ---
 
