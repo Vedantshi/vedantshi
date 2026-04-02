@@ -1,8 +1,8 @@
 <div align="center">
 
-# Vedant Shinde 👋
+# Vedant Shinde <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
 
-**Data Analyst | MS Information Systems, Stevens Institute of Technology (GPA: 3.94)**
+### **Data Analyst | MS Information Systems, Stevens Institute of Technology (GPA: 3.94)**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-vedantshinde25-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/vedantshinde25)
 [![Email](https://img.shields.io/badge/Email-vshinde1@stevens.edu-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:vshinde1@stevens.edu)
@@ -72,9 +72,9 @@ Segmented **2,000 customers** into 5 behavioral clusters by income and spending 
 
 ## Certifications
 
-**Microsoft** — Power BI Data Analyst Associate (PL-300)
+#### **Microsoft** — Power BI Data Analyst Associate (PL-300)
 
-**Google** — Data Analytics Specialization (Coursera)
+#### **Google** — Data Analytics Specialization (Coursera)
 
 ---
 
