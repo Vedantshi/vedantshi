@@ -5,7 +5,7 @@
 ### **Data Analyst | MS Information Systems, Stevens Institute of Technology (GPA: 3.94)**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-vedantshinde25-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/vedantshinde25)
-[![Email](https://img.shields.io/badge/Email-vshinde1@stevens.edu-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:vshinde1@stevens.edu)
+[![Email](https://img.shields.io/badge/Email-shindev124@gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:vshinde1@stevens.edu)
 [![Portfolio](https://img.shields.io/badge/Portfolio-GitHub-24292E?style=flat&logo=github&logoColor=white)](https://github.com/Vedantshi)
 
 </div>
